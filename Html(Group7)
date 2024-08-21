@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <div class="member">
-            <img src="Joyce.jpg" alt="Joyce De Guzman">
+            <img src="Picture/Joyce.jpg" alt="Joyce De Guzman">
             <div class="profile-info">
                 <h2><a href="https://www.facebook.com/profile.php?id=61551064284709&mibextid=LQQJ4d" class="button" target="_blank">Joyce De Guzman</a></h2>
                 <p><strong>Position:</strong> Leader</p>
@@ -18,7 +18,7 @@
         </div>
         
         <div class="member">
-            <img src="Jeric.jpg" alt="Jeric Torres">
+            <img src="Picture/Jeric.jpg" alt="Jeric Torres">
             <div class="profile-info">
                 <h2><a href="https://www.facebook.com/Mr.Torres03" class="button" target="_blank">Jeric Torres</a></h2>
                 <p><strong>Position:</strong> Developer</p>
@@ -27,7 +27,7 @@
         </div>
         
         <div class="member">
-            <img src="Sam.jpg" alt="Sam Cleofe">
+            <img src="Picture/Sam.jpg" alt="Sam Cleofe">
             <div class="profile-info">
                 <h2><a href="https://www.facebook.com/samcleofe19" class="button" target="_blank">Sam Cleofe</a></h2>
                 <p><strong>Position:</strong> Designer</p>
@@ -36,7 +36,7 @@
         </div>
         
         <div class="member">
-            <img src="Sandro.jpg" alt="Sandro Salazar">
+            <img src="Picture/Sandro.jpg" alt="Sandro Salazar">
             <div class="profile-info">
                 <h2><a href="https://www.facebook.com/bire.salazar?mibextid=ZbWKwL" class="button" target="_blank">Sandro Salazar</a></h2>
                 <p><strong>Position:</strong> Designer</p>
@@ -45,7 +45,7 @@
         </div>
         
         <div class="member">
-            <img src="Kiana1.jpg" alt="Kiana Delos Santos">
+            <img src="Picture/Kiana1.jpg" alt="Kiana Delos Santos">
             <div class="profile-info">
                 <h2><a href="https://www.facebook.com/kiana.delossantos.5/about" class="button" target="_blank">Kiana Delos Santos</a></h2>
                 <p><strong>Position:</strong> Designer</p>
